@@ -10,7 +10,7 @@
 
 ##### 🌐 Connect with me
 
-![https://instagram.com/jacky_syaban](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/Jacky_syaban](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![https://www.instagram.com/jacky_syaban?igsh=MWVienBieDhqbDZtZw==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/Jacky_syaban?t=ihOdE5qF78GjDQcV8auo4Q&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ##### My Github Stats
 
@@ -20,13 +20,13 @@
 
 <h3 align="left">Play Games with me</h3>
 
-<!-- ###
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
