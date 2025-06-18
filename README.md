@@ -1,4 +1,4 @@
-## Hi World I'm Jacky 👋
+## Hi World! I'm Jacky 👋
 
 ![Jacky Akagami](img/github-header-1.png)
 
@@ -28,3 +28,19 @@ Here are some ideas to get you started:
 ##### My Github Stats
 
 ![JackyAkagami GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyAkagami&show_icons=true&theme=gruvbox)
+
+<h4 align="left">Play Games with me</h4>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/snake.svg" alt="Snake animation" />
+
+###
