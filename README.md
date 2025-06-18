@@ -1,4 +1,4 @@
-## Hi World! I'm Jacky 👋
+## Hi World! I'm JackyAkagami 👋
 
 ![Jacky Akagami](img/github-header-1.png)
 
