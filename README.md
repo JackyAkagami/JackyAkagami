@@ -1,6 +1,6 @@
 ## Hi World I'm Jacky 👋
 
-![Jacky Akagami](img/github-header-1.png)
+![Jacky Akagami](img/github-header-3.png)
 
 <!--
 **JackyAkagami/JackyAkagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
