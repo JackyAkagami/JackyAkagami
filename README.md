@@ -18,7 +18,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JackyAkagami&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyAkagami&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Play Games with me</h3>
+<h2 align="left">Play Games with me</h2>
 
 ###
 
