@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Skils
+##### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,php,css,react,js,python,cs,mysql,nodejs,vscode&perline=5)](https://skillicons.dev)
 
