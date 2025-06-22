@@ -6,7 +6,7 @@
 
 ##### 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,php,css,react,js,python,cs,mysql,nodejs,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,php,css,react,js,java,python,cs,mysql,nodejs,c,mongodb,nextjs,vscode&perline=7)](https://skillicons.dev)
 
 ##### 🌐 Connect with me
 
