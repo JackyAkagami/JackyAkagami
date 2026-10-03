@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JackyAkagami/JackyAkagami/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
